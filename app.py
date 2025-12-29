@@ -384,17 +384,6 @@ if file is not None:
             st.session_state['processed'] = True
         end = time.time()
 
-def histogram_data(array):
-    intensity = np.mean(array, axis=2).flatten()
-    hist, bin = np.histogram(intensity, bins=256, range=(0, 256))
-    
-    df = pd.DataFrame({
-        'Intensitas' : bin[:-1],
-        'Frekuensi': hist
-    })
-    
-    return df
-
 if st.session_state['new_img'] is not None:
   st.success(f"Super Resolution Berhasil dengan waktu {end-start_time:.2f} detik")
 
@@ -418,12 +407,3 @@ if st.session_state['new_img'] is not None:
         mime=file.type,
         icon=":material/download:",
     )
-  
-  st.text("Histogram Before Super Resolution")
-  img_hist, _ = upload_image(file)
-  hist_before = histogram_data(img_hist)
-  st.bar_chart(hist_before, x='Intensitas', y='Frekuensi')
-  
-  st.text("Histogram After Super Resolution")
-  hist_after = histogram_data(st.session_state['new_img'])
-  st.bar_chart(hist_after, x='Intensitas', y='Frekuensi')
