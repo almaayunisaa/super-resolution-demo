@@ -1,0 +1,11 @@
+Base : 0.29 detik
+Minimal : 11 detik
+Standard : 46 detik
+Medium : 47 detik
+Maximum : 46 detik
+
+Custom Nearest Lembut : -+ 0 detik
+Custom Bicubic Tajam 0.5 : 47 detik
+Custom Bilinear Tajam : 11 detik
+
+
