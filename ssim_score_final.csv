@@ -1,0 +1,181 @@
+dataset,kernel,interpolation,alpha,name,score
+cats,lembut,bicubic -0.5,,00000001_000.jpg_lower.jpg,0.716442440527003
+cats,lembut,bicubic -0.5,,00000001_005.jpg_lower.jpg,0.7200343799661837
+cats,lembut,bicubic -0.5,,00000001_008.jpg_lower.jpg,0.652667408080454
+cats,lembut,bicubic -0.5,,00000001_011.jpg_lower.jpg,0.6652962268421154
+cats,lembut,bicubic -0.5,,00000001_012.jpg_lower.jpg,0.8194909594288405
+cats,lembut,bicubic -0.5,,00000001_016.jpg_lower.jpg,0.8577957941796152
+cats,lembut,bicubic -0.5,,00000001_017.jpg_lower.jpg,0.7863347188181694
+cats,lembut,bicubic -0.5,,00000001_020.jpg_lower.jpg,0.7206431892357744
+cats,lembut,bicubic -0.5,,00000001_024.jpg_lower.jpg,0.7151420822886541
+cats,lembut,bicubic -0.5,,00000001_027.jpg_lower.jpg,0.8111316435473646
+cats,lembut,bicubic -0.75,,00000001_000.jpg_lower.jpg,0.7118252240150995
+cats,lembut,bicubic -0.75,,00000001_005.jpg_lower.jpg,0.7152840952915119
+cats,lembut,bicubic -0.75,,00000001_008.jpg_lower.jpg,0.6496294703460328
+cats,lembut,bicubic -0.75,,00000001_011.jpg_lower.jpg,0.6610735319722529
+cats,lembut,bicubic -0.75,,00000001_012.jpg_lower.jpg,0.8156446707506521
+cats,lembut,bicubic -0.75,,00000001_016.jpg_lower.jpg,0.8560047083985006
+cats,lembut,bicubic -0.75,,00000001_017.jpg_lower.jpg,0.7825046812973634
+cats,lembut,bicubic -0.75,,00000001_020.jpg_lower.jpg,0.717577355795922
+cats,lembut,bicubic -0.75,,00000001_024.jpg_lower.jpg,0.7105021080719195
+cats,lembut,bicubic -0.75,,00000001_027.jpg_lower.jpg,0.8056479532579601
+cats,lembut,nearest,,00000001_000.jpg_lower.jpg,0.4760592319932103
+cats,lembut,nearest,,00000001_005.jpg_lower.jpg,0.5059459248703262
+cats,lembut,nearest,,00000001_008.jpg_lower.jpg,0.4223041049525049
+cats,lembut,nearest,,00000001_011.jpg_lower.jpg,0.4297298567553738
+cats,lembut,nearest,,00000001_012.jpg_lower.jpg,0.6097949114589762
+cats,lembut,nearest,,00000001_016.jpg_lower.jpg,0.7938069059985712
+cats,lembut,nearest,,00000001_017.jpg_lower.jpg,0.6081944397069732
+cats,lembut,nearest,,00000001_020.jpg_lower.jpg,0.5402913702592097
+cats,lembut,nearest,,00000001_024.jpg_lower.jpg,0.48058502081145865
+cats,lembut,nearest,,00000001_027.jpg_lower.jpg,0.6442628545021614
+cats,tajam,bicubic -0.5,,00000001_000.jpg_lower.jpg,0.5331495680722335
+cats,tajam,bicubic -0.5,,00000001_005.jpg_lower.jpg,0.5324757486136203
+cats,tajam,bicubic -0.5,,00000001_008.jpg_lower.jpg,0.4792731472039381
+cats,tajam,bicubic -0.5,,00000001_011.jpg_lower.jpg,0.4822896496922375
+cats,tajam,bicubic -0.5,,00000001_012.jpg_lower.jpg,0.6536048137359886
+cats,tajam,bicubic -0.5,,00000001_016.jpg_lower.jpg,0.7282671397777553
+cats,tajam,bicubic -0.5,,00000001_017.jpg_lower.jpg,0.6327857450155405
+cats,tajam,bicubic -0.5,,00000001_020.jpg_lower.jpg,0.5566046560722396
+cats,tajam,bicubic -0.5,,00000001_024.jpg_lower.jpg,0.5337400868660253
+cats,tajam,bicubic -0.5,,00000001_027.jpg_lower.jpg,0.6358973439233886
+cats,tajam,bicubic -0.75,,00000001_000.jpg_lower.jpg,0.5252220258410286
+cats,tajam,bicubic -0.75,,00000001_005.jpg_lower.jpg,0.5239244750004756
+cats,tajam,bicubic -0.75,,00000001_008.jpg_lower.jpg,0.4725572019805223
+cats,tajam,bicubic -0.75,,00000001_011.jpg_lower.jpg,0.4745749612884918
+cats,tajam,bicubic -0.75,,00000001_012.jpg_lower.jpg,0.6472059371073617
+cats,tajam,bicubic -0.75,,00000001_016.jpg_lower.jpg,0.7250917041539475
+cats,tajam,bicubic -0.75,,00000001_017.jpg_lower.jpg,0.625548620593759
+cats,tajam,bicubic -0.75,,00000001_020.jpg_lower.jpg,0.5498554858035993
+cats,tajam,bicubic -0.75,,00000001_024.jpg_lower.jpg,0.5256772144125406
+cats,tajam,bicubic -0.75,,00000001_027.jpg_lower.jpg,0.6274517779906975
+cats,tajam,nearest,,00000001_000.jpg_lower.jpg,0.2311084046228089
+cats,tajam,nearest,,00000001_005.jpg_lower.jpg,0.2536995695996458
+cats,tajam,nearest,,00000001_008.jpg_lower.jpg,0.20643168100313006
+cats,tajam,nearest,,00000001_011.jpg_lower.jpg,0.2039883221702139
+cats,tajam,nearest,,00000001_012.jpg_lower.jpg,0.34188663878608183
+cats,tajam,nearest,,00000001_016.jpg_lower.jpg,0.6461871560264177
+cats,tajam,nearest,,00000001_017.jpg_lower.jpg,0.37029794692347756
+cats,tajam,nearest,,00000001_020.jpg_lower.jpg,0.3153677334309008
+cats,tajam,nearest,,00000001_024.jpg_lower.jpg,0.22855359678003384
+cats,tajam,nearest,,00000001_027.jpg_lower.jpg,0.4296245820258317
+landscape,lembut,bicubic -0.75,,Coast-Test (1).jpeg_lower.jpg,0.7248288095709647
+landscape,lembut,bicubic -0.75,,Coast-Test (86).jpeg_lower.jpg,0.7482826636039872
+landscape,lembut,bicubic -0.75,,Coast-Test (87).jpeg_lower.jpg,0.742965232125586
+landscape,lembut,bicubic -0.75,,Coast-Test (88).jpeg_lower.jpg,0.6501430197934573
+landscape,lembut,bicubic -0.75,,Coast-Test (89).jpeg_lower.jpg,0.7786789482898374
+landscape,lembut,bicubic -0.75,,Coast-Test (90).jpeg_lower.jpg,0.7219225797349621
+landscape,lembut,bicubic -0.75,,Coast-Test (91).jpeg_lower.jpg,0.7945706525556199
+landscape,lembut,bicubic -0.75,,Coast-Test (92).jpeg_lower.jpg,0.7478125154913048
+landscape,lembut,bicubic -0.75,,Coast-Test (93).jpeg_lower.jpg,0.7130661059812868
+landscape,lembut,bicubic -0.75,,Coast-Test (94).jpeg_lower.jpg,0.7588169355889728
+landscape,lembut,bicubic -1.0,,Coast-Test (1).jpeg_lower.jpg,0.7125915394697545
+landscape,lembut,bicubic -1.0,,Coast-Test (86).jpeg_lower.jpg,0.7367299275131534
+landscape,lembut,bicubic -1.0,,Coast-Test (87).jpeg_lower.jpg,0.7315022800254997
+landscape,lembut,bicubic -1.0,,Coast-Test (88).jpeg_lower.jpg,0.6366825630232362
+landscape,lembut,bicubic -1.0,,Coast-Test (89).jpeg_lower.jpg,0.7686529981896472
+landscape,lembut,bicubic -1.0,,Coast-Test (90).jpeg_lower.jpg,0.7122967943170507
+landscape,lembut,bicubic -1.0,,Coast-Test (91).jpeg_lower.jpg,0.7846216147981101
+landscape,lembut,bicubic -1.0,,Coast-Test (92).jpeg_lower.jpg,0.7349129471923692
+landscape,lembut,bicubic -1.0,,Coast-Test (93).jpeg_lower.jpg,0.7032411668306304
+landscape,lembut,bicubic -1.0,,Coast-Test (94).jpeg_lower.jpg,0.7466379157054207
+landscape,lembut,nearest,,Coast-Test (1).jpeg_lower.jpg,0.5167340361471133
+landscape,lembut,nearest,,Coast-Test (86).jpeg_lower.jpg,0.5296103303781357
+landscape,lembut,nearest,,Coast-Test (87).jpeg_lower.jpg,0.5319931550490969
+landscape,lembut,nearest,,Coast-Test (88).jpeg_lower.jpg,0.41444238918677856
+landscape,lembut,nearest,,Coast-Test (89).jpeg_lower.jpg,0.5775876256740998
+landscape,lembut,nearest,,Coast-Test (90).jpeg_lower.jpg,0.5377617292101536
+landscape,lembut,nearest,,Coast-Test (91).jpeg_lower.jpg,0.6148109753341144
+landscape,lembut,nearest,,Coast-Test (92).jpeg_lower.jpg,0.5161099282214022
+landscape,lembut,nearest,,Coast-Test (93).jpeg_lower.jpg,0.5234416908849868
+landscape,lembut,nearest,,Coast-Test (94).jpeg_lower.jpg,0.5607782836604482
+landscape,tajam,bicubic -0.75,,Coast-Test (1).jpeg_lower.jpg,0.5579759971558805
+landscape,tajam,bicubic -0.75,,Coast-Test (86).jpeg_lower.jpg,0.563130077178442
+landscape,tajam,bicubic -0.75,,Coast-Test (87).jpeg_lower.jpg,0.5751057294246118
+landscape,tajam,bicubic -0.75,,Coast-Test (88).jpeg_lower.jpg,0.47744627703858217
+landscape,tajam,bicubic -0.75,,Coast-Test (89).jpeg_lower.jpg,0.5955138186784257
+landscape,tajam,bicubic -0.75,,Coast-Test (90).jpeg_lower.jpg,0.5417040571061409
+landscape,tajam,bicubic -0.75,,Coast-Test (91).jpeg_lower.jpg,0.6149336385891522
+landscape,tajam,bicubic -0.75,,Coast-Test (92).jpeg_lower.jpg,0.5654203114128725
+landscape,tajam,bicubic -0.75,,Coast-Test (93).jpeg_lower.jpg,0.5503088992615027
+landscape,tajam,bicubic -0.75,,Coast-Test (94).jpeg_lower.jpg,0.5629202296310994
+landscape,tajam,bicubic -1.0,,Coast-Test (1).jpeg_lower.jpg,0.5393704337541616
+landscape,tajam,bicubic -1.0,,Coast-Test (86).jpeg_lower.jpg,0.5441578969692441
+landscape,tajam,bicubic -1.0,,Coast-Test (87).jpeg_lower.jpg,0.5553960525456179
+landscape,tajam,bicubic -1.0,,Coast-Test (88).jpeg_lower.jpg,0.4585105584087034
+landscape,tajam,bicubic -1.0,,Coast-Test (89).jpeg_lower.jpg,0.5823479920627788
+landscape,tajam,bicubic -1.0,,Coast-Test (90).jpeg_lower.jpg,0.5269071935640726
+landscape,tajam,bicubic -1.0,,Coast-Test (91).jpeg_lower.jpg,0.599738247710245
+landscape,tajam,bicubic -1.0,,Coast-Test (92).jpeg_lower.jpg,0.5453068467565992
+landscape,tajam,bicubic -1.0,,Coast-Test (93).jpeg_lower.jpg,0.5359309788637204
+landscape,tajam,bicubic -1.0,,Coast-Test (94).jpeg_lower.jpg,0.5457978570266984
+landscape,tajam,nearest,,Coast-Test (1).jpeg_lower.jpg,0.29485338581179926
+landscape,tajam,nearest,,Coast-Test (86).jpeg_lower.jpg,0.2812161236550421
+landscape,tajam,nearest,,Coast-Test (87).jpeg_lower.jpg,0.30775104567171363
+landscape,tajam,nearest,,Coast-Test (88).jpeg_lower.jpg,0.22940156483814664
+landscape,tajam,nearest,,Coast-Test (89).jpeg_lower.jpg,0.28961057481857155
+landscape,tajam,nearest,,Coast-Test (90).jpeg_lower.jpg,0.3003496922731039
+landscape,tajam,nearest,,Coast-Test (91).jpeg_lower.jpg,0.367148441036896
+landscape,tajam,nearest,,Coast-Test (92).jpeg_lower.jpg,0.2716737943344562
+landscape,tajam,nearest,,Coast-Test (93).jpeg_lower.jpg,0.32606128252971367
+landscape,tajam,nearest,,Coast-Test (94).jpeg_lower.jpg,0.29534025729190816
+skin lesion,lembut,bicubic -0.5,,ISIC_0024306.jpg_lower.jpg,0.8504100677109367
+skin lesion,lembut,bicubic -0.5,,ISIC_0024307.jpg_lower.jpg,0.844020469624812
+skin lesion,lembut,bicubic -0.5,,ISIC_0024308.jpg_lower.jpg,0.8180078121622478
+skin lesion,lembut,bicubic -0.5,,ISIC_0024309.jpg_lower.jpg,0.8657624400629712
+skin lesion,lembut,bicubic -0.5,,ISIC_0024310.jpg_lower.jpg,0.7815898532273275
+skin lesion,lembut,bicubic -0.5,,ISIC_0024311.jpg_lower.jpg,0.8509186773888723
+skin lesion,lembut,bicubic -0.5,,ISIC_0024312.jpg_lower.jpg,0.8465577782698958
+skin lesion,lembut,bicubic -0.5,,ISIC_0024313.jpg_lower.jpg,0.8626449703400227
+skin lesion,lembut,bicubic -0.5,,ISIC_0024314.jpg_lower.jpg,0.8531998495305478
+skin lesion,lembut,bicubic -0.5,,ISIC_0024315.jpg_lower.jpg,0.8054242050950501
+skin lesion,lembut,bicubic -0.75,,ISIC_0024306.jpg_lower.jpg,0.8475730070927279
+skin lesion,lembut,bicubic -0.75,,ISIC_0024307.jpg_lower.jpg,0.839876070968432
+skin lesion,lembut,bicubic -0.75,,ISIC_0024308.jpg_lower.jpg,0.8139036846065103
+skin lesion,lembut,bicubic -0.75,,ISIC_0024309.jpg_lower.jpg,0.8624629682430571
+skin lesion,lembut,bicubic -0.75,,ISIC_0024310.jpg_lower.jpg,0.7762830103054148
+skin lesion,lembut,bicubic -0.75,,ISIC_0024311.jpg_lower.jpg,0.8480704048073006
+skin lesion,lembut,bicubic -0.75,,ISIC_0024312.jpg_lower.jpg,0.8434828354711307
+skin lesion,lembut,bicubic -0.75,,ISIC_0024313.jpg_lower.jpg,0.8597931634929191
+skin lesion,lembut,bicubic -0.75,,ISIC_0024314.jpg_lower.jpg,0.8492420517978608
+skin lesion,lembut,bicubic -0.75,,ISIC_0024315.jpg_lower.jpg,0.8006697973233805
+skin lesion,lembut,bilinear,,ISIC_0024306.jpg_lower.jpg,0.8574388850506515
+skin lesion,lembut,bilinear,,ISIC_0024307.jpg_lower.jpg,0.8509463120131944
+skin lesion,lembut,bilinear,,ISIC_0024308.jpg_lower.jpg,0.8176799447396416
+skin lesion,lembut,bilinear,,ISIC_0024309.jpg_lower.jpg,0.8737721680994188
+skin lesion,lembut,bilinear,,ISIC_0024310.jpg_lower.jpg,0.7785931921370518
+skin lesion,lembut,bilinear,,ISIC_0024311.jpg_lower.jpg,0.8567729515395581
+skin lesion,lembut,bilinear,,ISIC_0024312.jpg_lower.jpg,0.8524190753235967
+skin lesion,lembut,bilinear,,ISIC_0024313.jpg_lower.jpg,0.8695656849665959
+skin lesion,lembut,bilinear,,ISIC_0024314.jpg_lower.jpg,0.8600512381201676
+skin lesion,lembut,bilinear,,ISIC_0024315.jpg_lower.jpg,0.8106322457816035
+skin lesion,tajam,bicubic -0.5,,ISIC_0024306.jpg_lower.jpg,0.6684900528705485
+skin lesion,tajam,bicubic -0.5,,ISIC_0024307.jpg_lower.jpg,0.6577219627311622
+skin lesion,tajam,bicubic -0.5,,ISIC_0024308.jpg_lower.jpg,0.634705619405681
+skin lesion,tajam,bicubic -0.5,,ISIC_0024309.jpg_lower.jpg,0.685273303661322
+skin lesion,tajam,bicubic -0.5,,ISIC_0024310.jpg_lower.jpg,0.5908439004283379
+skin lesion,tajam,bicubic -0.5,,ISIC_0024311.jpg_lower.jpg,0.6731747565573214
+skin lesion,tajam,bicubic -0.5,,ISIC_0024312.jpg_lower.jpg,0.6630661662811947
+skin lesion,tajam,bicubic -0.5,,ISIC_0024313.jpg_lower.jpg,0.6846702018371026
+skin lesion,tajam,bicubic -0.5,,ISIC_0024314.jpg_lower.jpg,0.6665400048003256
+skin lesion,tajam,bicubic -0.5,,ISIC_0024315.jpg_lower.jpg,0.6224821975879243
+skin lesion,tajam,bicubic -0.75,,ISIC_0024306.jpg_lower.jpg,0.6628976370229398
+skin lesion,tajam,bicubic -0.75,,ISIC_0024307.jpg_lower.jpg,0.6506752747532824
+skin lesion,tajam,bicubic -0.75,,ISIC_0024308.jpg_lower.jpg,0.628222336010628
+skin lesion,tajam,bicubic -0.75,,ISIC_0024309.jpg_lower.jpg,0.6782041930084272
+skin lesion,tajam,bicubic -0.75,,ISIC_0024310.jpg_lower.jpg,0.5815858317382674
+skin lesion,tajam,bicubic -0.75,,ISIC_0024311.jpg_lower.jpg,0.6674685610091634
+skin lesion,tajam,bicubic -0.75,,ISIC_0024312.jpg_lower.jpg,0.6564594082433729
+skin lesion,tajam,bicubic -0.75,,ISIC_0024313.jpg_lower.jpg,0.6787152397492442
+skin lesion,tajam,bicubic -0.75,,ISIC_0024314.jpg_lower.jpg,0.6590272216283023
+skin lesion,tajam,bicubic -0.75,,ISIC_0024315.jpg_lower.jpg,0.6149777973023351
+skin lesion,tajam,bilinear,,ISIC_0024306.jpg_lower.jpg,0.6831689822653841
+skin lesion,tajam,bilinear,,ISIC_0024307.jpg_lower.jpg,0.6723531330024113
+skin lesion,tajam,bilinear,,ISIC_0024308.jpg_lower.jpg,0.6355774500287216
+skin lesion,tajam,bilinear,,ISIC_0024309.jpg_lower.jpg,0.7018669496074544
+skin lesion,tajam,bilinear,,ISIC_0024310.jpg_lower.jpg,0.580038874354575
+skin lesion,tajam,bilinear,,ISIC_0024311.jpg_lower.jpg,0.6870860480709615
+skin lesion,tajam,bilinear,,ISIC_0024312.jpg_lower.jpg,0.675892783250914
+skin lesion,tajam,bilinear,,ISIC_0024313.jpg_lower.jpg,0.7011957192384437
+skin lesion,tajam,bilinear,,ISIC_0024314.jpg_lower.jpg,0.6821495791327425
+skin lesion,tajam,bilinear,,ISIC_0024315.jpg_lower.jpg,0.6331915491436226

@@ -1,0 +1,151 @@
+dataset,interpolation,alpha,name,score
+cats,bicubic,-0.5,00000001_000.jpg_lower.jpg,0.7949201265988747
+cats,bicubic,-0.5,00000001_005.jpg_lower.jpg,0.8030857326706232
+cats,bicubic,-0.5,00000001_008.jpg_lower.jpg,0.7198593374632887
+cats,bicubic,-0.5,00000001_011.jpg_lower.jpg,0.7403221332777601
+cats,bicubic,-0.5,00000001_012.jpg_lower.jpg,0.8889169418099969
+cats,bicubic,-0.5,00000001_016.jpg_lower.jpg,0.907299878946774
+cats,bicubic,-0.5,00000001_017.jpg_lower.jpg,0.849353943676866
+cats,bicubic,-0.5,00000001_020.jpg_lower.jpg,0.7879053979467696
+cats,bicubic,-0.5,00000001_024.jpg_lower.jpg,0.792629550247539
+cats,bicubic,-0.5,00000001_027.jpg_lower.jpg,0.8991743010909394
+cats,bicubic,-0.75,00000001_000.jpg_lower.jpg,0.7960398646511657
+cats,bicubic,-0.75,00000001_005.jpg_lower.jpg,0.8032667872132987
+cats,bicubic,-0.75,00000001_008.jpg_lower.jpg,0.7222569482862803
+cats,bicubic,-0.75,00000001_011.jpg_lower.jpg,0.7422150215668475
+cats,bicubic,-0.75,00000001_012.jpg_lower.jpg,0.8891499392144057
+cats,bicubic,-0.75,00000001_016.jpg_lower.jpg,0.9070303924974972
+cats,bicubic,-0.75,00000001_017.jpg_lower.jpg,0.8494264883194003
+cats,bicubic,-0.75,00000001_020.jpg_lower.jpg,0.7893773305653177
+cats,bicubic,-0.75,00000001_024.jpg_lower.jpg,0.793676243989898
+cats,bicubic,-0.75,00000001_027.jpg_lower.jpg,0.8977130449529536
+cats,bicubic,-1.0,00000001_000.jpg_lower.jpg,0.7959425411353241
+cats,bicubic,-1.0,00000001_005.jpg_lower.jpg,0.802513203233847
+cats,bicubic,-1.0,00000001_008.jpg_lower.jpg,0.7232069394721554
+cats,bicubic,-1.0,00000001_011.jpg_lower.jpg,0.7425222717389117
+cats,bicubic,-1.0,00000001_012.jpg_lower.jpg,0.8884786928114394
+cats,bicubic,-1.0,00000001_016.jpg_lower.jpg,0.9064170941968739
+cats,bicubic,-1.0,00000001_017.jpg_lower.jpg,0.8488174725254966
+cats,bicubic,-1.0,00000001_020.jpg_lower.jpg,0.7896278636023947
+cats,bicubic,-1.0,00000001_024.jpg_lower.jpg,0.7938450609032327
+cats,bicubic,-1.0,00000001_027.jpg_lower.jpg,0.8954194829556346
+cats,bilinear,0,00000001_000.jpg_lower.jpg,0.7886592465538522
+cats,bilinear,0,00000001_005.jpg_lower.jpg,0.7994417100602005
+cats,bilinear,0,00000001_008.jpg_lower.jpg,0.7105204719901612
+cats,bilinear,0,00000001_011.jpg_lower.jpg,0.7323726707828593
+cats,bilinear,0,00000001_012.jpg_lower.jpg,0.8868302847676092
+cats,bilinear,0,00000001_016.jpg_lower.jpg,0.9080240754064289
+cats,bilinear,0,00000001_017.jpg_lower.jpg,0.8477169299154206
+cats,bilinear,0,00000001_020.jpg_lower.jpg,0.7830253525538439
+cats,bilinear,0,00000001_024.jpg_lower.jpg,0.786657503831529
+cats,bilinear,0,00000001_027.jpg_lower.jpg,0.8993863989924663
+cats,nearest,0,00000001_000.jpg_lower.jpg,0.7898096271609194
+cats,nearest,0,00000001_005.jpg_lower.jpg,0.7993096376231261
+cats,nearest,0,00000001_008.jpg_lower.jpg,0.7265480898839389
+cats,nearest,0,00000001_011.jpg_lower.jpg,0.7455704050942745
+cats,nearest,0,00000001_012.jpg_lower.jpg,0.8844053020673123
+cats,nearest,0,00000001_016.jpg_lower.jpg,0.9064979322990766
+cats,nearest,0,00000001_017.jpg_lower.jpg,0.8443175603026098
+cats,nearest,0,00000001_020.jpg_lower.jpg,0.7900577838462426
+cats,nearest,0,00000001_024.jpg_lower.jpg,0.7890223113943011
+cats,nearest,0,00000001_027.jpg_lower.jpg,0.8948633705333818
+landscape,bicubic,-0.5,Coast-Test (1).jpeg_lower.jpg,0.8050845671272706
+landscape,bicubic,-0.5,Coast-Test (86).jpeg_lower.jpg,0.8350506940662642
+landscape,bicubic,-0.5,Coast-Test (87).jpeg_lower.jpg,0.8069586905234628
+landscape,bicubic,-0.5,Coast-Test (88).jpeg_lower.jpg,0.7277581271069317
+landscape,bicubic,-0.5,Coast-Test (89).jpeg_lower.jpg,0.8656254062391321
+landscape,bicubic,-0.5,Coast-Test (90).jpeg_lower.jpg,0.8203294643160082
+landscape,bicubic,-0.5,Coast-Test (91).jpeg_lower.jpg,0.8810568008200189
+landscape,bicubic,-0.5,Coast-Test (92).jpeg_lower.jpg,0.8432003218336176
+landscape,bicubic,-0.5,Coast-Test (93).jpeg_lower.jpg,0.7833275783864313
+landscape,bicubic,-0.5,Coast-Test (94).jpeg_lower.jpg,0.8653257200966482
+landscape,bicubic,-0.75,Coast-Test (1).jpeg_lower.jpg,0.8059001845479452
+landscape,bicubic,-0.75,Coast-Test (86).jpeg_lower.jpg,0.8357887055888436
+landscape,bicubic,-0.75,Coast-Test (87).jpeg_lower.jpg,0.8091096990425171
+landscape,bicubic,-0.75,Coast-Test (88).jpeg_lower.jpg,0.7314324052412955
+landscape,bicubic,-0.75,Coast-Test (89).jpeg_lower.jpg,0.8661763386057871
+landscape,bicubic,-0.75,Coast-Test (90).jpeg_lower.jpg,0.8206406292470175
+landscape,bicubic,-0.75,Coast-Test (91).jpeg_lower.jpg,0.8814550229611816
+landscape,bicubic,-0.75,Coast-Test (92).jpeg_lower.jpg,0.8442541639449958
+landscape,bicubic,-0.75,Coast-Test (93).jpeg_lower.jpg,0.7866938374395425
+landscape,bicubic,-0.75,Coast-Test (94).jpeg_lower.jpg,0.8646973890118377
+landscape,bicubic,-1.0,Coast-Test (1).jpeg_lower.jpg,0.805328886917655
+landscape,bicubic,-1.0,Coast-Test (86).jpeg_lower.jpg,0.8350038372081008
+landscape,bicubic,-1.0,Coast-Test (87).jpeg_lower.jpg,0.8093729244277971
+landscape,bicubic,-1.0,Coast-Test (88).jpeg_lower.jpg,0.7330973272758674
+landscape,bicubic,-1.0,Coast-Test (89).jpeg_lower.jpg,0.8655931733781166
+landscape,bicubic,-1.0,Coast-Test (90).jpeg_lower.jpg,0.819602209842468
+landscape,bicubic,-1.0,Coast-Test (91).jpeg_lower.jpg,0.8802388093105273
+landscape,bicubic,-1.0,Coast-Test (92).jpeg_lower.jpg,0.8430210140869603
+landscape,bicubic,-1.0,Coast-Test (93).jpeg_lower.jpg,0.7880527153019137
+landscape,bicubic,-1.0,Coast-Test (94).jpeg_lower.jpg,0.8627700081511444
+landscape,bilinear,0,Coast-Test (1).jpeg_lower.jpg,0.798059688564134
+landscape,bilinear,0,Coast-Test (86).jpeg_lower.jpg,0.8302873235277639
+landscape,bilinear,0,Coast-Test (87).jpeg_lower.jpg,0.7993325028820414
+landscape,bilinear,0,Coast-Test (88).jpeg_lower.jpg,0.7149248002489872
+landscape,bilinear,0,Coast-Test (89).jpeg_lower.jpg,0.8616614903403688
+landscape,bilinear,0,Coast-Test (90).jpeg_lower.jpg,0.8166393391983616
+landscape,bilinear,0,Coast-Test (91).jpeg_lower.jpg,0.8776931500803937
+landscape,bilinear,0,Coast-Test (92).jpeg_lower.jpg,0.8372021138651582
+landscape,bilinear,0,Coast-Test (93).jpeg_lower.jpg,0.7724581299930232
+landscape,bilinear,0,Coast-Test (94).jpeg_lower.jpg,0.8626609067679415
+landscape,nearest,0,Coast-Test (1).jpeg_lower.jpg,0.8106276679696351
+landscape,nearest,0,Coast-Test (86).jpeg_lower.jpg,0.8289858857433191
+landscape,nearest,0,Coast-Test (87).jpeg_lower.jpg,0.8118680722943689
+landscape,nearest,0,Coast-Test (88).jpeg_lower.jpg,0.7388348020848275
+landscape,nearest,0,Coast-Test (89).jpeg_lower.jpg,0.8647275226520482
+landscape,nearest,0,Coast-Test (90).jpeg_lower.jpg,0.8211561421893472
+landscape,nearest,0,Coast-Test (91).jpeg_lower.jpg,0.8788770501193999
+landscape,nearest,0,Coast-Test (92).jpeg_lower.jpg,0.8410539097404843
+landscape,nearest,0,Coast-Test (93).jpeg_lower.jpg,0.7925260630551586
+landscape,nearest,0,Coast-Test (94).jpeg_lower.jpg,0.8642833661407954
+skin lesion,bicubic,-0.5,ISIC_0024306.jpg_lower.jpg,0.9213867381108034
+skin lesion,bicubic,-0.5,ISIC_0024307.jpg_lower.jpg,0.9158221696757372
+skin lesion,bicubic,-0.5,ISIC_0024308.jpg_lower.jpg,0.8920020086189402
+skin lesion,bicubic,-0.5,ISIC_0024309.jpg_lower.jpg,0.933171322907047
+skin lesion,bicubic,-0.5,ISIC_0024310.jpg_lower.jpg,0.862572701175209
+skin lesion,bicubic,-0.5,ISIC_0024311.jpg_lower.jpg,0.9197668061001392
+skin lesion,bicubic,-0.5,ISIC_0024312.jpg_lower.jpg,0.9179913226242568
+skin lesion,bicubic,-0.5,ISIC_0024313.jpg_lower.jpg,0.9298353358030457
+skin lesion,bicubic,-0.5,ISIC_0024314.jpg_lower.jpg,0.9274631770876887
+skin lesion,bicubic,-0.5,ISIC_0024315.jpg_lower.jpg,0.8772068251778851
+skin lesion,bicubic,-0.75,ISIC_0024306.jpg_lower.jpg,0.9207417306575286
+skin lesion,bicubic,-0.75,ISIC_0024307.jpg_lower.jpg,0.915125229925011
+skin lesion,bicubic,-0.75,ISIC_0024308.jpg_lower.jpg,0.8918399947270631
+skin lesion,bicubic,-0.75,ISIC_0024309.jpg_lower.jpg,0.9324998737457024
+skin lesion,bicubic,-0.75,ISIC_0024310.jpg_lower.jpg,0.8620739886870065
+skin lesion,bicubic,-0.75,ISIC_0024311.jpg_lower.jpg,0.9192312797392134
+skin lesion,bicubic,-0.75,ISIC_0024312.jpg_lower.jpg,0.9172982518870001
+skin lesion,bicubic,-0.75,ISIC_0024313.jpg_lower.jpg,0.9293098395123193
+skin lesion,bicubic,-0.75,ISIC_0024314.jpg_lower.jpg,0.9267232695516194
+skin lesion,bicubic,-0.75,ISIC_0024315.jpg_lower.jpg,0.8765064977341045
+skin lesion,bicubic,-1.0,ISIC_0024306.jpg_lower.jpg,0.9196355013721318
+skin lesion,bicubic,-1.0,ISIC_0024307.jpg_lower.jpg,0.9139767488400747
+skin lesion,bicubic,-1.0,ISIC_0024308.jpg_lower.jpg,0.8910719367024811
+skin lesion,bicubic,-1.0,ISIC_0024309.jpg_lower.jpg,0.9314241990290437
+skin lesion,bicubic,-1.0,ISIC_0024310.jpg_lower.jpg,0.8610161990739105
+skin lesion,bicubic,-1.0,ISIC_0024311.jpg_lower.jpg,0.9183724306655017
+skin lesion,bicubic,-1.0,ISIC_0024312.jpg_lower.jpg,0.916229937770338
+skin lesion,bicubic,-1.0,ISIC_0024313.jpg_lower.jpg,0.9282213869942946
+skin lesion,bicubic,-1.0,ISIC_0024314.jpg_lower.jpg,0.9256511022453121
+skin lesion,bicubic,-1.0,ISIC_0024315.jpg_lower.jpg,0.8754497981165069
+skin lesion,bilinear,0,ISIC_0024306.jpg_lower.jpg,0.9226235875947759
+skin lesion,bilinear,0,ISIC_0024307.jpg_lower.jpg,0.9169825225380797
+skin lesion,bilinear,0,ISIC_0024308.jpg_lower.jpg,0.8909110987295877
+skin lesion,bilinear,0,ISIC_0024309.jpg_lower.jpg,0.9344833282132925
+skin lesion,bilinear,0,ISIC_0024310.jpg_lower.jpg,0.8614753247760476
+skin lesion,bilinear,0,ISIC_0024311.jpg_lower.jpg,0.9202824317380363
+skin lesion,bilinear,0,ISIC_0024312.jpg_lower.jpg,0.9189696632557934
+skin lesion,bilinear,0,ISIC_0024313.jpg_lower.jpg,0.9309119750400633
+skin lesion,bilinear,0,ISIC_0024314.jpg_lower.jpg,0.9283418570859643
+skin lesion,bilinear,0,ISIC_0024315.jpg_lower.jpg,0.877988951650608
+skin lesion,nearest,0,ISIC_0024306.jpg_lower.jpg,0.9186087658502199
+skin lesion,nearest,0,ISIC_0024307.jpg_lower.jpg,0.913011186442659
+skin lesion,nearest,0,ISIC_0024308.jpg_lower.jpg,0.8865125859996572
+skin lesion,nearest,0,ISIC_0024309.jpg_lower.jpg,0.9296335810745533
+skin lesion,nearest,0,ISIC_0024310.jpg_lower.jpg,0.8522667218005281
+skin lesion,nearest,0,ISIC_0024311.jpg_lower.jpg,0.9184100782313154
+skin lesion,nearest,0,ISIC_0024312.jpg_lower.jpg,0.9143563884576332
+skin lesion,nearest,0,ISIC_0024313.jpg_lower.jpg,0.9267671485258259
+skin lesion,nearest,0,ISIC_0024314.jpg_lower.jpg,0.9246855382600365
+skin lesion,nearest,0,ISIC_0024315.jpg_lower.jpg,0.8753328897410785
